@@ -1,2 +1,2 @@
-print (30104)
-print (김민서)
+print ("30104")
+print ("김민서")
